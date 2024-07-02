@@ -1,4 +1,4 @@
-# UK-Road-Accidents-Data-Analysis-Project
+# UK Road Accidents Data Analysis Project
 ![UK](https://github.com/akshaysangave/UK-Road-Accidents-Analysis/assets/156088551/71fb6912-bbfd-4efb-9450-84ff3513156e)
 
 The UK Road Accidents Data Analysis Project aims to analyze extensive traffic accident data to identify key factors impacting road safety. By examining trends in variables like road types, light conditions, and weather, the study provides insights to support policy decisions and enhance road safety.
