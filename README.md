@@ -1,7 +1,6 @@
 # UK-Road-Accidents-Data-Analysis-Project
 The UK Road Accidents Data Analysis Project aims to analyze extensive traffic accident data to identify key factors impacting road safety. By examining trends in variables like road types, light conditions, and weather, the study provides insights to support policy decisions and enhance road safety.
-# UK Road Accidents Data Analysis Project
-  Tools used - MS Excel, Power BI, Tableau, SQL
+*Tools used - MS Excel, Power BI, Tableau, SQL*
 # Introduction
 The purpose of the UK Road Accidents Analysis Project is to analyse large amounts of traffic accident data in order to identify the key factors contributing to road safety issues. This study searches for trends and patterns in variables such as road kinds, light conditions, and weather. Providing helpful information to support policy decisions and increase road safety is the aim.
 # Objectives
