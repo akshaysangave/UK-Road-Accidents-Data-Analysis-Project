@@ -52,18 +52,17 @@ Identified and handled the missing data and duplicate values using tools like po
 Created charts and graphs for KPIs and built interactive dashaboards in MS Excel, MS Power BI and Tableau. Also ran queries using SQL server.
 
 # Excel Dashboard
-![Excel DB](https://github.com/akshaysangave/UK-Road-Accidents-Analysis/assets/156088551/c89fd9af-a024-41e1-935b-2260afd58b5b)
+![Excel DB](https://github.com/akshaysangave/UK-Road-Accidents-Data-Analysis-Project/assets/156088551/cb3081e8-ac2d-455e-b8b2-b82fff750198)
 # Power BI Dashboard
-![PowerBI DB - Accident Project](https://github.com/akshaysangave/UK-Road-Accidents-Analysis/assets/156088551/a20e3ddd-1be9-4989-bd56-e4c93d47a37f)
+![PowerBI DB - Accident Project](https://github.com/akshaysangave/UK-Road-Accidents-Data-Analysis-Project/assets/156088551/7ccdf346-c0f7-4ab4-9db0-18a3fcd8c7c2)
 # Tableau Dashboard
-![Tableau DB Acci](https://github.com/akshaysangave/UK-Road-Accidents-Analysis/assets/156088551/55fa91f8-eb6e-49ee-b4f1-c3d37a4dc954)
+![Tableau DB Acci](https://github.com/akshaysangave/UK-Road-Accidents-Data-Analysis-Project/assets/156088551/499c6878-3d49-4c42-ae0f-6c81123bcd0e)
 # SQL Queries
 Check the SQL work done for this project.
-[UK Road Accident Analysis - SQL Queries.pdf](https://github.com/user-attachments/files/16067404/UK.Road.Accident.Analysis.-.SQL.Queries.pdf)
-
+[UK Road Accidents Data Analysis - SQL Queries.pdf](https://github.com/user-attachments/files/16068999/UK.Road.Accidents.Data.Analysis.-.SQL.Queries.pdf)
 # Insights, Recommendations and Conclusion
 The following report presents the gist of the project work.
-[Insights, Recommendations and Conclusion.pdf](https://github.com/user-attachments/files/16067513/Insights.Recommendations.and.Conclusion.pdf)
+[Insights, Recommendations and Conclusion.pdf](https://github.com/user-attachments/files/16068994/Insights.Recommendations.and.Conclusion.pdf)
 
 
 
